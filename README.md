@@ -1,4 +1,4 @@
 # first-repository
 This is my first Git Repository.
 <br>
-Author - Iftekhar Khan
+Author - Iftekhar Khan ( Amir Khan )
